@@ -1,0 +1,6 @@
+cnn.com Firefox Mac - Passed - 378.797s
+cnn.com Chrome  Mac - Passed - 1613.261s 
+amazon.com Firefox Mac - Passed - 82.642s
+amazon.com Chrome Mac - Failed - 26.960s
+techcrunch.com Firefox - Passed - 115.658s
+techcrunch.com Chrome Mac - Failed - 1090.556s
